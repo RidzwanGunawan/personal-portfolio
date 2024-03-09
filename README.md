@@ -10,7 +10,7 @@ Hello, I'm Ridzwan Gunawan a passionate student with a drive to create extraordi
 
 Explore some of the projects featured in my portfolio:
 
-1. **Web Searh Movie**
+1. **Web Searh Movies**
 
    - Description: Creating Web Search Movies to make it easier for users to find complete information about various films and TV shows. With an intuitive interface, users can quickly search for movies by title, or year of release.
    - React + Vite
