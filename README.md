@@ -49,16 +49,26 @@ Explore some of the projects featured in my portfolio:
 
 Here are some of my key skills:
 
-- Skill 1
-- Skill 2
-- Skill 3
-- ...
+- HTML
+- CSS
+- JavaScript
+- Node JS
+- Express JS
+- React
+- Next JS
+- Tailwind
+- Bootstrap
+- Saas
+- git
+- github
+- Postgres
+- MySql
+- Oracle
 
 ## Contact Me
 
 Feel free to get in touch with me through the following channels:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: [www.linkedin.com/in/ridzwan-gunawan]
 
 Thank you for visiting my portfolio!
