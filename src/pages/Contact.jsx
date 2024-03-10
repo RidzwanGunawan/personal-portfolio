@@ -67,13 +67,13 @@ const Contact = () => {
 
   return (
     <>
-      <section className="relative flex lg:flex-row flex-col max-container h-[100vh]">
+      <section className="relative flex lg:flex-row flex-col max-container h-full mb-12">
         {alert.show && <Alert {...alert} />}
 
         <div className="flex-1 min-w-[50%] flex flex-col">
           <h1 className="head-text">Get in Touch</h1>
           <form
-            className="w-full flex flex-col gap-7 mt-14"
+            className="w-full flex flex-col gap-5 mt-10"
             onSubmit={handleSubmit}
           >
             <label className="text-black-500 font font-semibold">
@@ -162,7 +162,7 @@ const Contact = () => {
       </section>
       <hr className="border-slate-200 mt-10" />
 
-      <footer className="text-center py-4 font-semibold flex items-center flex-row justify-center ml-4 font-poppins text-xl">
+      <footer className="text-center py-10 font-semibold flex items-center flex-row justify-center font-poppins text-lg">
         &copy; 2024 Ridzwan Gunawan.
         <div className="flex gap-2 ml-2">
           {socialLinks.map((social) => (
@@ -176,7 +176,7 @@ const Contact = () => {
                 <img
                   src={social.iconUrl}
                   alt="threads"
-                  className="w-7 h-7 object-contain"
+                  className="w-6 h-6 object-contain"
                 />
               </Link>
             </div>
