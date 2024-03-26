@@ -27,6 +27,7 @@ import bootstrap from "./bootstrap.svg";
 import oracle from "./oracle.svg";
 import udemy from "./udemy.svg";
 import myskill from "./myskill.svg";
+import python from "./python.svg";
 
 export {
   css,
@@ -58,4 +59,5 @@ export {
   oracle,
   udemy,
   myskill,
+  python,
 };

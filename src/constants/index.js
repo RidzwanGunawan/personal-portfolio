@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+// import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
   css,
   express,
@@ -25,6 +25,7 @@ import {
   oracle,
   udemy,
   myskill,
+  python,
 } from "../assets/icons";
 
 export const skills = [
@@ -43,6 +44,7 @@ export const skills = [
     name: "JavaScript",
     type: "Frontend",
   },
+
   {
     imageUrl: nodejs,
     name: "Node.js",
@@ -62,6 +64,11 @@ export const skills = [
     imageUrl: nextjs,
     name: "Next.js",
     type: "Frontend",
+  },
+  {
+    imageUrl: python,
+    name: "Python",
+    type: "Language",
   },
   {
     imageUrl: tailwindcss,
