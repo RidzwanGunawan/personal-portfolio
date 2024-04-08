@@ -176,7 +176,7 @@ export const socialLinks = [
   {
     name: "Instagram",
     iconUrl: instagram,
-    link: "https://www.instagram.com/ridzwan.g/",
+    link: "https://www.instagram.com/itsme.nex/",
   },
   {
     name: "LinkedIn",
