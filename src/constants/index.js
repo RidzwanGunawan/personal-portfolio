@@ -26,6 +26,7 @@ import {
   udemy,
   myskill,
   python,
+  spotify,
 } from "../assets/icons";
 
 export const skills = [
@@ -191,6 +192,15 @@ export const socialLinks = [
 ];
 
 export const projects = [
+  {
+    iconUrl: spotify,
+    theme: "btn-back-green",
+    name: "Spotify Clone",
+    description:
+      "Enjoy music with our React-based Spotify Clone. Powered by Tailwind CSS and Vite, offering seamless play/pause controls, attractive design, intuitive track navigation, precise time display, and customizable keyboard shortcuts.",
+    link: "https://github.com/yourusername/spotify-clone",
+    pages: "https://yourusername.vercel.app/",
+  },
   {
     iconUrl: movies,
     theme: "btn-back-red",

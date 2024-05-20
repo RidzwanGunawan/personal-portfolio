@@ -28,6 +28,7 @@ import oracle from "./oracle.svg";
 import udemy from "./udemy.svg";
 import myskill from "./myskill.svg";
 import python from "./python.svg";
+import spotify from "./spotify.svg";
 
 export {
   css,
@@ -60,4 +61,5 @@ export {
   udemy,
   myskill,
   python,
+  spotify,
 };
