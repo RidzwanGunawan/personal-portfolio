@@ -198,8 +198,8 @@ export const projects = [
     name: "Spotify Clone",
     description:
       "Enjoy music with our React-based Spotify Clone. Powered by Tailwind CSS and Vite, offering seamless play/pause controls, attractive design, intuitive track navigation, precise time display, and customizable keyboard shortcuts.",
-    link: "https://github.com/yourusername/spotify-clone",
-    pages: "https://yourusername.vercel.app/",
+    link: "https://github.com/RidzwanGunawan/spotify-clone",
+    pages: "https://spotify-clone-rg.vercel.app/",
   },
   {
     iconUrl: movies,
